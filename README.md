@@ -6,7 +6,8 @@ working on stuff with r lang
 1.	Median is bigger than the mean of log-returns on market (DJIA) for the period. T/F
 2.  Market log-returns are normally distributed at 5% significance level.  T/F	explain why?
 3.  Produce histogram plot (graphical file) with 36 bars and attach it to the answer.
-4.  The most number of negative returns (“bear days”) among stocks is observed for ………… (ticker) and the number of “bear days” is ... (an integer number).	
+4.  The most number of negative returns (“bear days”) among stocks is 
+    observed for ………… (ticker) and the number of “bear days” is ...... (an integer number).	
 5   Average of daily simple returns on AAL for the full-sample period is .....%.
 6.  Daily log-returns on stocks ....… (ticker) and ... (ticker) are the least leptokurtic
 7.  Stock tickers:	AAL	BA	MA	SA
