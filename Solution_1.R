@@ -1,10 +1,4 @@
 ###################################################################
-#           Statistics and Explaratoroty Data Analysis            #
-#                        Laboratory 1                             #
-#                 Solutions to exercises for Students             #
-###################################################################
-
-###################################################################
 #Exercise 1
 ###################################################################
 # Suppose you roll an unfair die 50 times with the probability of obtaining ???6??? equal to 0.6 
@@ -15,7 +9,7 @@ n <- 50 #50 times rolling of a die
 pmf <- dbinom(0:n, n, 0.6) #pdf for 50 times of Binomial rv with p=0.6 
 plot (0:n, pmf, type = 'h')
 
-# hocanýn çözümü yanlýþ cbinom diye bir þey yok
+# hocanÃ½n Ã§Ã¶zÃ¼mÃ¼ yanlÃ½Ã¾ cbinom diye bir Ã¾ey yok
 #a <- cbinom(40, 50, 0.6)  #probabilty of having <=40
 #1-a #probability of having more than 40
 
